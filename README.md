@@ -13,7 +13,7 @@
 
 - :zap: Увлекаюсь видеосъемкой.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DenisLukianov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/NyamNyamIch13)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DenisLukianov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/NyamNyamIch12)
 
 ### ⚙️ GitHub статистика:
 
