@@ -26,7 +26,7 @@
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DenisLukianov21&layout=compact&theme=vision-friendly-dark" />
     </td>
     <td>
-      ![Leetcode Stats](https://leetcard.jacoblin.cool/DenisLukianov21)
+      ![Leetcode Stats](https://leetcard.DenisLukianov21/DenisLukianov21)
     </td>
   </tr>
 </table>
